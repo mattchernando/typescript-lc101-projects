@@ -5,7 +5,6 @@
 // Part 1: Declare (5) Variables With Type
 
 
-
 // Part 2: Print Days to Mars
 
 
